@@ -1,0 +1,21 @@
+P3T1
+
+Manipulación de un arreglo dinamico de tipo abstracto
+
+Hacer una aplicación que utilice un tipo de datos abstractos, este tipo de datos
+se utiliza para poder manipular la informacion de un grupo de franquicias:
+
+los datos TDA son: 
+-Numero de la franquicia (compuesto por dos letras y dos numeros)
+-nombre de la franquicia (Franquicia1, Franquicia2, etc...)
+-Numero de empleados...
+-ventas anuales(numero con punto decimal)
+
+En la aplicacion el usuario podra:
+-crear el arreglo dinamico
+-llenar de forma aleatorio
+-Guardar los datos de arreglo
+-Modificar los datos arreglos
+-Mostrar los datos de un arreglo
+-Eliminar los datos del arreglo
+-Mostrar el numero de franquicia con mayor venta anual y la menor venta anual en etiquetas

@@ -1,0 +1,10 @@
+T3 Colas
+Estructura de datos lineal 
+FIFO First input First ouput
+PEPS Primero en entrar, primero en salir
+
+Cola vacia
+cola llena
+insertar
+eliminar
+mostrar
